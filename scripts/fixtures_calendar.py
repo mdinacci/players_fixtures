@@ -24,6 +24,7 @@ PLAYERS = {
     "De Jong": ("Barcelona", "esp.1", 83),
     "Barella": ("Internazionale", "ita.1", 110),
     "Éderson (Atalanta)": ("Atalanta", "ita.1", 105),
+    "Wharton": ("Crystal Palace", "eng.1", 384),
 }
 CLUBS = {(club, league, tid) for (_, (club, league, tid)) in PLAYERS.items()}
 
